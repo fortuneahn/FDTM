@@ -1,0 +1,12 @@
+{
+  "task_id": "",
+  "revision": "",
+  "artifact_hashes": [],
+  "critic_report_path": "",
+  "decision": "PENDING",
+  "human_approver": null,
+  "approved_at": null,
+  "evidence_path": null,
+  "external_submission_authorized": false,
+  "authority_response_evidence": null
+}

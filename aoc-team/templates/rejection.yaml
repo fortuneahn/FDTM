@@ -1,0 +1,14 @@
+rejection_directive:
+  rejection_id: "REJ-AOC-YYYYMMDD-01"
+  task_id: ""
+  reviewed_revision: ""
+  target_agent: "ops_dispatch_agent"
+  error_category: "SPEC_MISMATCH"
+  severity: "BLOCKER"
+  failed_location: "교범 ID / 장 / 절 / 조항 / 페이지"
+  specific_issue: ""
+  ground_truth_reference: "SRC-ID / 원문 조항 / 판·개정"
+  corrective_action_required: ""
+  verification_criteria: ""
+  retry_count: 1
+  status: "OPEN"

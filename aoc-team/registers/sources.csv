@@ -1,0 +1,12 @@
+source_id,issuer,title,edition_revision,effective_date,applicability,uri_or_path,verified_date,verified_by,status
+SRC-KR-ACT-65,MOLIT,대한민국 항공안전법 제65조(운항관리사) 및 제56조(피로관리),법률 제20383호,2024-03-19,국내 항공운송사업 운항관리사 배치 및 비행인가,https://www.law.go.kr,2026-10-15,compliance_soc_agent,SUPERSEDED
+SRC-KR-RULE-DISP,MOLIT,항공안전법 시행규칙 제128조의2(근무시간)·제158조(운항관리사)·제159조(교육훈련)·제119조(연료)·제186조(교체비행장),국토교통부령 제1380호,2024-07-10,국내 항공운송사업 운항통제 및 인력관리,https://www.law.go.kr,2026-10-15,compliance_soc_agent,SUPERSEDED
+SRC-KR-KAS-CH8,MOLIT,고정익항공기를 위한 운항기술기준 제8장(운항관리 및 운항통제),국토교통부고시,최신판,운항관리 및 비행인가 세부기술기준,https://www.law.go.kr,2026-10-15,compliance_soc_agent,VERIFIED
+SRC-US-14CFR-121,FAA,14 CFR Part 121 Operating Requirements: Domestic Flag and Supplemental Operations,2026 Edition,2026-10-07,운항관리사 권한·공동책임·인가서 (§§ 121.533 121.687),https://uscodex.org/cfr/14/121,2026-10-15,compliance_soc_agent,VERIFIED
+SRC-ICAO-ANNEX6,ICAO,ICAO Annex 6 Part I International Commercial Air Transport - Aeroplanes,12th Edition,최신판,국제기준 운항통제 및 연료·추적(Chapter 3 4 10),ICAO,2026-10-15,compliance_soc_agent,VERIFIED
+SRC-IATA-IOSA-DSP,IATA,IATA IOSA Standards Manual (ISM) Section 4: Operational Control and Flight Dispatch (DSP),Ed 16,최신판,IATA 항공사 운항통제 인증기준,IATA,2026-10-15,compliance_soc_agent,VERIFIED
+SRC-KR-ACT-2026-0917,국토교통부(국가법령정보센터),항공안전법 제34조·제65조·제72조·제90조 (MST 286927),"법률, 공포 2026-06-16 / 시행 2026-09-17 (법률 번호 미확인)",2026-09-17,운항관리사 배치·교육훈련 의무. 시행예정 2026-11-13 개정은 제65조 불변 확인,law.go.kr get_law_text,2026-10-16,aoc_part_leader,VERIFIED
+SRC-KR-RULE-2026-0701,국토교통부(국가법령정보센터),"항공안전법 시행규칙 제128조의2·158·159·182·186·187·266·267조, 별표 36 제1호 (MST 287951)","부령, 공포·시행 2026-07-01 (부령 번호 미확인)",2026-07-01,운항관리사 근무시간·교육훈련·운항규정 인가/변경. 별표 32·33은 미확인,law.go.kr get_law_text/get_annexes,2026-10-16,aoc_part_leader,VERIFIED
+SRC-KR-KARS-2026-154,국토교통부,"고정익항공기를 위한 운항기술기준 8.4.8.7~50, 9.1.18.2~3, 별표 8.3.4.1A·8.3.4.6.C·8.4.8.16·8.4.8.25·8.4.8.36","고시 제2026-154호, 일부개정 2026-03-25",2026-03-25,운항관리사 훈련 기준. 전문 hwpx 추출본 대조(inputs/regulations),inputs/regulations/KARS_2026-154_*.txt,2026-10-16,aoc_part_leader,VERIFIED
+SRC-KR-DG-2023-52,국토교통부,항공위험물운송기술기준 제12조,"고시 제2023-52호, 2023-01-18",2023-01-18,교육 24개월 주기. 표 1-1·1-2(이미지)의 운항관리사 시수는 미확인,law.go.kr get_admin_rule,2026-10-16,aoc_part_leader,PARTIAL
+SRC-KR-AVSEC-379,국토교통부,국가민간항공보안 교육훈련지침,"예규 제379호, 2024-03-15",2024-03-15,본문에서 운항관리사 대상 교육 시수 미확인(검색 결과 없음),law.go.kr get_admin_rule,2026-10-16,aoc_part_leader,UNVERIFIED

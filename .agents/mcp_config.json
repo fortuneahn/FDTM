@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "aviation_deepsky": {
+      "serverUrl": "https://www.deepskyai.com/api/mcp"
+    },
+    "aviation_us_faa": {
+      "serverUrl": "https://uscodex.org/mcp"
+    },
+    "aviation_iata_docs": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/AviationManuals"
+      ]
+    }
+  }
+}
+

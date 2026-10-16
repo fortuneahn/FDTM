@@ -1,0 +1,26 @@
+{
+  "company_name": "KCNAIR",
+  "company_name_status": "UNVERIFIED",
+  "operation_type": null,
+  "domestic_international": null,
+  "passenger_cargo": null,
+  "fleet": [
+    {
+      "aircraft_type": null,
+      "variant": null,
+      "registration": null,
+      "configuration": null
+    }
+  ],
+  "base_airports": [],
+  "routes": [],
+  "requested_opspecs": [],
+  "dangerous_goods_policy": null,
+  "organization": null,
+  "accountable_manager": null,
+  "human_final_approver": null,
+  "target_date": null,
+  "regulatory_baseline_date": null,
+  "manufacturer_document_revisions": [],
+  "status": "INPUT_REQUIRED"
+}

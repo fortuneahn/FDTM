@@ -1,0 +1,4 @@
+interface_id,topic,owner_a,owner_b,manual_a_clause,manual_b_clause,agreed_policy,confirmation_a,confirmation_b,status
+INT-001,MEL (O) (M) 인계,ops_dispatch_agent,camo_maintenance_agent,,,,,,OPEN
+INT-002,POM 운항통제 보고,ops_dispatch_agent,sms_dgr_safety_agent,,,,,,OPEN
+INT-003,객실 비상탈출 및 ERP,ops_dispatch_agent,sms_dgr_safety_agent,,,,,,OPEN

@@ -1,0 +1,15 @@
+manual_id,title,owner,status,revision,approval_requirement,output_path
+POM,운항일반교범,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/POM/manual.md
+AOM,항공기운영교범,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/AOM/manual.md
+MEL-CDL,최소장비목록 및 외형변경목록,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/MEL-CDL/manual.md
+TRAINING,훈련교범,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/TRAINING/manual.md
+PERF,항공기성능교범,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/PERF/manual.md
+ROUTE,노선지침서,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/ROUTE/manual.md
+EVAC,비상탈출 및 생존교범,sms_dgr_safety_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/EVAC/manual.md
+DGR,위험물교범,sms_dgr_safety_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/DGR/manual.md
+SMSM,안전관리시스템 교범,sms_dgr_safety_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/SMSM/manual.md
+CABIN,객실승무원 업무교범,sms_dgr_safety_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/CABIN/manual.md
+DISPATCH,운항관리교범,ops_dispatch_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/DISPATCH/manual.md
+MCM,정비규정,camo_maintenance_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/MCM/manual.md
+MAINT-TRAINING,정비훈련교범,camo_maintenance_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/MAINT-TRAINING/manual.md
+RELIABILITY,신뢰성관리교범,camo_maintenance_agent,NOT_STARTED,0,UNVERIFIED,aoc-team/work/manuals/RELIABILITY/manual.md
