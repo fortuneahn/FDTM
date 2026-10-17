@@ -1,0 +1,15 @@
+task_id: TASK-FDTM-MD-001
+status: PASS_RECOMMENDED
+revision: markdown-snapshot-2
+sha256: a0a9beb93f73d955fd785f9a913ed1ceaf090887cd6515f1f6fb6c0770fa780d
+scope: DOCX_to_Markdown_conversion_fidelity
+findings:
+  - id: FMT-001
+    category: FORMAT_NON_COMPLIANCE
+    severity: MEDIUM
+    status: CLOSED
+    location: "1.2 적용 범위 및 List Bullet 146개 단락"
+    evidence: "원문 XML과 수정본 목록 일대일 대조"
+    issue: "최초 스냅샷 불릿 목록 구조 소실"
+    required_fix: "Markdown 불릿 보존"
+    revalidation: "스냅샷 2에서 전체 146개 보존, 텍스트 누락 0, 표 44개 확인"
